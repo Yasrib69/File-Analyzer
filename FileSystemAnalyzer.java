@@ -1,8 +1,6 @@
 /*
  * Name: Yasrib Yasir Farook
  * Date: 12/02/2024
- * Class: COSC-211
- * Description: 
  */
 import java.io.File;
 import java.util.Scanner;
